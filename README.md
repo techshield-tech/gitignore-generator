@@ -7,6 +7,7 @@ network; everything runs in your browser.
 **Live:** https://techshield-tech.github.io/gitignore-generator/
 
 Part of [MMOALL Developer Tools](https://mmoall.com/tools).
+Also available at [mmoall.com/tools/gitignore-generator](https://mmoall.com/tools/gitignore-generator).
 
 ## Features
 
