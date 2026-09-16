@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { Button, CopyButton, Panel, TextArea, Toolbar } from '../shell/ui';
+import { Button, CopyButton, Panel, TextArea, Toolbar } from '@mmoall/tool-kit';
 import { buildGitignore } from './gitignore-builder';
 import {
   CATEGORY_ORDER,
